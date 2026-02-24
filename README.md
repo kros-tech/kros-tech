@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on anything related to Data Science
 - 📫 How to reach me: krosvallclausen@gmail.com
 - 😄 Pronouns:  she/her
-- ⚡ Fun fact:  When I was working at GoDaddy, the company Christmas party featured Snoop Dog and Ke$ha as the musical entertainment.  It was a fun time!
-
+- ⚡ Fun facts:
+    - I saw U2 in concert at The Original Boston Garden on St. Patrick's day and then celebrated afterwards at the famous Black Rose pub located steps from historic Faneuil Hall.
+    - When I was working at GoDaddy, the company Christmas party featured Snoop Dog and Ke$ha as the musical entertainment.  It was a fun time!
 <!---
 kros-tech/kros-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
